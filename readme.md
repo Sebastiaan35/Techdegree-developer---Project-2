@@ -5,6 +5,7 @@ Date: 19.Dec.2020
 
 
 Copy of instrunctions:
+
 https://teamtreehouse.com/projects/basketball-stats-tool#instructions
 
 
@@ -90,7 +91,7 @@ Press ENTER to continue...
 Before submitting the project
 Before you submit your project, check off each item in the project submissions checklist below.
 
- I have read all of the project instructions, including the ìHow youíll be gradedî section for this project.
+ I have read all of the project instructions, including the ‚ÄúHow you‚Äôll be graded‚Äù section for this project.
 
  I understand what is needed to receive a Meets or Exceeds Expectations grade, and asked for clarification about grading requirements on Slack if necessary.
 
@@ -166,5 +167,5 @@ Press ENTER to continue...
 NOTE: Getting an "Exceed Expectations" grade.
 
 See the rubric in the "How You'll Be Graded" tab above for details on what you need to receive an "Exceed Expectations" grade.
-Passing grades are final. If you try for the "Exceeds Expectations" grade, but miss an item and receive a ìMeets Expectationsî grade, you wonít get a second chance. Exceptions can be made for items that have been misgraded in review.
+Passing grades are final. If you try for the "Exceeds Expectations" grade, but miss an item and receive a ‚ÄúMeets Expectations‚Äù grade, you won‚Äôt get a second chance. Exceptions can be made for items that have been misgraded in review.
 Always mention in the comments of your submission or any resubmission, what grade you are going for. Some students want their project to be rejected if they do not meet all Exceeds Expectations Requirements, others will try for all the "exceeds" requirement but do not mind if they pass with a Meets Expectations grade. Leaving a comment in your submission will help the reviewer understand which grade you are specifically going for
